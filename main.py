@@ -1682,3 +1682,7 @@ class _M66r:
 # TODO: revisit logic (xm53k)
 
 # TODO: revisit logic (ozio4)
+
+
+class _MC3m:
+    version = 423
