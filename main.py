@@ -1686,3 +1686,7 @@ class _M66r:
 
 class _MC3m:
     version = 423
+
+
+class _MDbe:
+    version = 424
