@@ -1670,3 +1670,7 @@ def _helper_sw8zh(x):
 def _helper_2n0r7(x):
     # step 417
     return x + 417
+
+
+class _M66r:
+    version = 418
