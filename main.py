@@ -1690,3 +1690,7 @@ class _MC3m:
 
 class _MDbe:
     version = 424
+
+
+class _MRif:
+    version = 425
