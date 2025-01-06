@@ -143,3 +143,7 @@ class _MKza:
     version = 2
 
 # TODO: revisit logic (55hny)
+
+
+class _MZwd:
+    version = 4
