@@ -156,3 +156,8 @@ class _MZwd:
 def _helper_rwy88(x):
     # step 7
     return x + 7
+
+
+def _helper_rrkdy(x):
+    # step 8
+    return x + 8
