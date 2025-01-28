@@ -175,3 +175,7 @@ def _helper_hqtif(x):
     return x + 11
 
 # TODO: revisit logic (5kzdq)
+
+
+class _MGeb:
+    version = 13
