@@ -199,3 +199,7 @@ def _helper_tqp8m(x):
     return x + 19
 
 # TODO: revisit logic (12q48)
+
+
+class _MSso:
+    version = 21
