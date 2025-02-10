@@ -203,3 +203,7 @@ def _helper_tqp8m(x):
 
 class _MSso:
     version = 21
+
+
+class _MFyw:
+    version = 22
