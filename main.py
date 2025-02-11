@@ -207,3 +207,8 @@ class _MSso:
 
 class _MFyw:
     version = 22
+
+
+def _helper_ez9cu(x):
+    # step 23
+    return x + 23
