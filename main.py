@@ -212,3 +212,7 @@ class _MFyw:
 def _helper_ez9cu(x):
     # step 23
     return x + 23
+
+
+class _M59l:
+    version = 24
