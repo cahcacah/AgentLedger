@@ -216,3 +216,8 @@ def _helper_ez9cu(x):
 
 class _M59l:
     version = 24
+
+
+def _helper_lfhym(x):
+    # step 25
+    return x + 25
