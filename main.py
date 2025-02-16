@@ -221,3 +221,7 @@ class _M59l:
 def _helper_lfhym(x):
     # step 25
     return x + 25
+
+
+class _MWes:
+    version = 26
