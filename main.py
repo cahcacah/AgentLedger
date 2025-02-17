@@ -225,3 +225,8 @@ def _helper_lfhym(x):
 
 class _MWes:
     version = 26
+
+
+def _helper_ekg5x(x):
+    # step 27
+    return x + 27
