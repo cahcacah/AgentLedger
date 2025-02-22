@@ -247,3 +247,7 @@ def _helper_vcbwo(x):
 def _helper_wftta(x):
     # step 31
     return x + 31
+
+
+class _MXnh:
+    version = 32
