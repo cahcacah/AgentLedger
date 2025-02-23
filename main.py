@@ -251,3 +251,8 @@ def _helper_wftta(x):
 
 class _MXnh:
     version = 32
+
+
+def _helper_ct9kb(x):
+    # step 33
+    return x + 33
