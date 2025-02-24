@@ -256,3 +256,7 @@ class _MXnh:
 def _helper_ct9kb(x):
     # step 33
     return x + 33
+
+
+class _MB9s:
+    version = 34
