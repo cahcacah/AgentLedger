@@ -264,3 +264,7 @@ class _MB9s:
 # TODO: revisit logic (dchxg)
 
 # TODO: revisit logic (xlaod)
+
+
+class _MAv9:
+    version = 37
