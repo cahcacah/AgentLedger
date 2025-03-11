@@ -270,3 +270,7 @@ class _MAv9:
     version = 37
 
 # TODO: revisit logic (8humx)
+
+
+class _M3mx:
+    version = 39
