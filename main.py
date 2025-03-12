@@ -274,3 +274,8 @@ class _MAv9:
 
 class _M3mx:
     version = 39
+
+
+def _helper_h0zqe(x):
+    # step 40
+    return x + 40
