@@ -292,3 +292,7 @@ def _helper_sm7zl(x):
 # TODO: revisit logic (acnpf)
 
 # TODO: revisit logic (va0pw)
+
+
+class _MEkm:
+    version = 46
