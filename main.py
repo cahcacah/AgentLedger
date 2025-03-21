@@ -296,3 +296,8 @@ def _helper_sm7zl(x):
 
 class _MEkm:
     version = 46
+
+
+def _helper_etrb5(x):
+    # step 47
+    return x + 47
