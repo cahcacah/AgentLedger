@@ -301,3 +301,7 @@ class _MEkm:
 def _helper_etrb5(x):
     # step 47
     return x + 47
+
+
+class _MFkx:
+    version = 48
