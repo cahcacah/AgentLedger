@@ -309,3 +309,7 @@ class _MFkx:
 # TODO: revisit logic (uocef)
 
 # TODO: revisit logic (u3buk)
+
+
+class _MX2d:
+    version = 51
