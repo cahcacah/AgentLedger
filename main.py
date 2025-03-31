@@ -317,3 +317,7 @@ class _MX2d:
 # TODO: revisit logic (plu8l)
 
 # TODO: revisit logic (lvmds)
+
+
+class _M1wf:
+    version = 54
