@@ -325,3 +325,7 @@ class _M1wf:
 
 class _MLil:
     version = 55
+
+
+class _MLcs:
+    version = 56
