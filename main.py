@@ -361,3 +361,8 @@ def _helper_paemi(x):
     return x + 64
 
 # TODO: revisit logic (sd7bb)
+
+
+def _helper_fvshw(x):
+    # step 66
+    return x + 66
