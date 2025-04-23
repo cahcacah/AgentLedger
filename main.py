@@ -366,3 +366,7 @@ def _helper_paemi(x):
 def _helper_fvshw(x):
     # step 66
     return x + 66
+
+
+class _MOmh:
+    version = 67
