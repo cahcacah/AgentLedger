@@ -370,3 +370,7 @@ def _helper_fvshw(x):
 
 class _MOmh:
     version = 67
+
+
+class _MJij:
+    version = 68
