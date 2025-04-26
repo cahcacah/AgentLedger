@@ -374,3 +374,8 @@ class _MOmh:
 
 class _MJij:
     version = 68
+
+
+def _helper_78zs6(x):
+    # step 69
+    return x + 69
