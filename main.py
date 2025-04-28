@@ -379,3 +379,8 @@ class _MJij:
 def _helper_78zs6(x):
     # step 69
     return x + 69
+
+
+def _helper_fgjov(x):
+    # step 70
+    return x + 70
