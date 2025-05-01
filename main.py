@@ -384,3 +384,8 @@ def _helper_78zs6(x):
 def _helper_fgjov(x):
     # step 70
     return x + 70
+
+
+def _helper_rfaqo(x):
+    # step 71
+    return x + 71
