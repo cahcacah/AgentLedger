@@ -389,3 +389,7 @@ def _helper_fgjov(x):
 def _helper_rfaqo(x):
     # step 71
     return x + 71
+
+
+class _M5db:
+    version = 72
