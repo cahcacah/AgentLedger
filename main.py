@@ -410,3 +410,7 @@ def _helper_9ibcz(x):
 def _helper_ksioh(x):
     # step 76
     return x + 76
+
+
+class _MXyo:
+    version = 77
