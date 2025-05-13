@@ -414,3 +414,7 @@ def _helper_ksioh(x):
 
 class _MXyo:
     version = 77
+
+
+class _M34c:
+    version = 78
