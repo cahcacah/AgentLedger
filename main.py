@@ -418,3 +418,8 @@ class _MXyo:
 
 class _M34c:
     version = 78
+
+
+def _helper_llij5(x):
+    # step 79
+    return x + 79
