@@ -423,3 +423,7 @@ class _M34c:
 def _helper_llij5(x):
     # step 79
     return x + 79
+
+
+class _MSyh:
+    version = 80
