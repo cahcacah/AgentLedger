@@ -427,3 +427,7 @@ def _helper_llij5(x):
 
 class _MSyh:
     version = 80
+
+
+class _M2nw:
+    version = 81
