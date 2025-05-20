@@ -431,3 +431,8 @@ class _MSyh:
 
 class _M2nw:
     version = 81
+
+
+def _helper_nxqqc(x):
+    # step 82
+    return x + 82
