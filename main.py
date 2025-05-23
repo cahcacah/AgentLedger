@@ -446,3 +446,7 @@ def _helper_qijwa(x):
 def _helper_7vt6i(x):
     # step 84
     return x + 84
+
+
+class _MLeg:
+    version = 85
