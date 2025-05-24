@@ -450,3 +450,7 @@ def _helper_7vt6i(x):
 
 class _MLeg:
     version = 85
+
+
+class _MZ7z:
+    version = 86
