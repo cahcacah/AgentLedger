@@ -454,3 +454,7 @@ class _MLeg:
 
 class _MZ7z:
     version = 86
+
+
+class _MF2d:
+    version = 87
