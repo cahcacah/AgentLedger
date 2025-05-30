@@ -458,3 +458,8 @@ class _MZ7z:
 
 class _MF2d:
     version = 87
+
+
+def _helper_nyrzm(x):
+    # step 88
+    return x + 88
