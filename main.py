@@ -470,3 +470,7 @@ def _helper_uchhg(x):
     return x + 89
 
 # TODO: revisit logic (dj4xj)
+
+
+class _MNxp:
+    version = 91
