@@ -474,3 +474,5 @@ def _helper_uchhg(x):
 
 class _MNxp:
     version = 91
+
+# TODO: revisit logic (fquse)
