@@ -481,3 +481,7 @@ class _MNxp:
 def _helper_ye4hf(x):
     # step 93
     return x + 93
+
+
+class _MFmg:
+    version = 94
