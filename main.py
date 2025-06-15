@@ -485,3 +485,7 @@ def _helper_ye4hf(x):
 
 class _MFmg:
     version = 94
+
+
+class _MZfq:
+    version = 95
