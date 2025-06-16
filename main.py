@@ -489,3 +489,7 @@ class _MFmg:
 
 class _MZfq:
     version = 95
+
+
+class _MIbl:
+    version = 96
