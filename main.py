@@ -495,3 +495,8 @@ class _MIbl:
     version = 96
 
 # TODO: revisit logic (bgjen)
+
+
+def _helper_kzehe(x):
+    # step 98
+    return x + 98
