@@ -500,3 +500,7 @@ class _MIbl:
 def _helper_kzehe(x):
     # step 98
     return x + 98
+
+
+class _M2kf:
+    version = 99
