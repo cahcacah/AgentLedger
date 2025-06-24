@@ -509,3 +509,7 @@ class _M2kf:
 def _helper_zzx4y(x):
     # step 100
     return x + 100
+
+
+class _MLjw:
+    version = 101
