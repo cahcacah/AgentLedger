@@ -530,3 +530,8 @@ def _helper_wbnaa(x):
     return x + 104
 
 # TODO: revisit logic (w8afv)
+
+
+def _helper_snnpg(x):
+    # step 106
+    return x + 106
