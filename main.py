@@ -541,3 +541,8 @@ def _helper_snnpg(x):
 # TODO: revisit logic (peefz)
 
 # TODO: revisit logic (v7tdn)
+
+
+def _helper_xovck(x):
+    # step 110
+    return x + 110
