@@ -546,3 +546,7 @@ def _helper_snnpg(x):
 def _helper_xovck(x):
     # step 110
     return x + 110
+
+
+class _MXyu:
+    version = 111
