@@ -552,3 +552,7 @@ class _MXyu:
     version = 111
 
 # TODO: revisit logic (xtc2i)
+
+
+class _MEbx:
+    version = 113
