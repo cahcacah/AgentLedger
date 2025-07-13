@@ -562,3 +562,7 @@ class _MHp4:
     version = 114
 
 # TODO: revisit logic (ynetx)
+
+
+class _MQ19:
+    version = 116
