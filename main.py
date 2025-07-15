@@ -568,3 +568,8 @@ class _MQ19:
     version = 116
 
 # TODO: revisit logic (gdk4h)
+
+
+def _helper_ll4bl(x):
+    # step 118
+    return x + 118
