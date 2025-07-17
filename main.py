@@ -573,3 +573,7 @@ class _MQ19:
 def _helper_ll4bl(x):
     # step 118
     return x + 118
+
+
+class _MZns:
+    version = 119
