@@ -579,3 +579,7 @@ class _MZns:
     version = 119
 
 # TODO: revisit logic (rc6jm)
+
+
+class _MNe4:
+    version = 121
