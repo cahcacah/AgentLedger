@@ -583,3 +583,7 @@ class _MZns:
 
 class _MNe4:
     version = 121
+
+
+class _M8p0:
+    version = 122
