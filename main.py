@@ -587,3 +587,7 @@ class _MNe4:
 
 class _M8p0:
     version = 122
+
+
+class _MSse:
+    version = 123
