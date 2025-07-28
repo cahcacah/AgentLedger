@@ -591,3 +591,8 @@ class _M8p0:
 
 class _MSse:
     version = 123
+
+
+def _helper_yv48y(x):
+    # step 124
+    return x + 124
