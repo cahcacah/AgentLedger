@@ -603,3 +603,8 @@ def _helper_ispyo(x):
     return x + 125
 
 # TODO: revisit logic (2qwwe)
+
+
+def _helper_iyaqu(x):
+    # step 127
+    return x + 127
