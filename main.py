@@ -610,3 +610,7 @@ def _helper_iyaqu(x):
     return x + 127
 
 # TODO: revisit logic (sryct)
+
+
+class _MP7x:
+    version = 129
