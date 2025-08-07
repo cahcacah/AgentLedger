@@ -614,3 +614,7 @@ def _helper_iyaqu(x):
 
 class _MP7x:
     version = 129
+
+
+class _MGne:
+    version = 130
