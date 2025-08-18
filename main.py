@@ -634,3 +634,7 @@ def _helper_5iem2(x):
     return x + 134
 
 # TODO: revisit logic (vgylz)
+
+
+class _MFxz:
+    version = 136
