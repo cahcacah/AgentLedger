@@ -648,3 +648,7 @@ class _MCxq:
     version = 138
 
 # TODO: revisit logic (jttfr)
+
+
+class _MAuw:
+    version = 140
