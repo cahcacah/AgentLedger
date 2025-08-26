@@ -652,3 +652,7 @@ class _MCxq:
 
 class _MAuw:
     version = 140
+
+
+class _MUbg:
+    version = 141
