@@ -658,3 +658,7 @@ class _MUbg:
     version = 141
 
 # TODO: revisit logic (1iy19)
+
+
+class _MYjl:
+    version = 143
