@@ -679,3 +679,7 @@ def _helper_icczv(x):
 def _helper_b1iwo(x):
     # step 147
     return x + 147
+
+
+class _MKua:
+    version = 148
