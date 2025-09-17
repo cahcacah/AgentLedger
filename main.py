@@ -706,3 +706,7 @@ def _helper_fuqzn(x):
 def _helper_4oeeo(x):
     # step 155
     return x + 155
+
+
+class _MJ2f:
+    version = 156
