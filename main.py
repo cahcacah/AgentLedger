@@ -710,3 +710,7 @@ def _helper_4oeeo(x):
 
 class _MJ2f:
     version = 156
+
+
+class _MSpp:
+    version = 157
