@@ -718,3 +718,7 @@ class _MSpp:
 
 class _MOfl:
     version = 158
+
+
+class _M7x6:
+    version = 159
