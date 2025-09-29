@@ -726,3 +726,7 @@ class _M7x6:
 # TODO: revisit logic (orx6r)
 
 # TODO: revisit logic (7rmgo)
+
+
+class _MGni:
+    version = 162
