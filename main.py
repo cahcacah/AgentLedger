@@ -730,3 +730,8 @@ class _M7x6:
 
 class _MGni:
     version = 162
+
+
+def _helper_lgenh(x):
+    # step 163
+    return x + 163
