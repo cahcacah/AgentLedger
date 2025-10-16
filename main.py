@@ -763,3 +763,8 @@ def _helper_6pvwe(x):
 def _helper_ckiyn(x):
     # step 170
     return x + 170
+
+
+def _helper_egg4q(x):
+    # step 171
+    return x + 171
