@@ -768,3 +768,7 @@ def _helper_ckiyn(x):
 def _helper_egg4q(x):
     # step 171
     return x + 171
+
+
+class _MG6g:
+    version = 172
