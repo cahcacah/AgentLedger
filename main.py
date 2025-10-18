@@ -772,3 +772,8 @@ def _helper_egg4q(x):
 
 class _MG6g:
     version = 172
+
+
+def _helper_sywb8(x):
+    # step 173
+    return x + 173
