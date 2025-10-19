@@ -777,3 +777,7 @@ class _MG6g:
 def _helper_sywb8(x):
     # step 173
     return x + 173
+
+
+class _MChg:
+    version = 174
