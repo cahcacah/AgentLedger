@@ -781,3 +781,7 @@ def _helper_sywb8(x):
 
 class _MChg:
     version = 174
+
+
+class _MNsn:
+    version = 175
