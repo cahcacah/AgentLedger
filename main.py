@@ -785,3 +785,8 @@ class _MChg:
 
 class _MNsn:
     version = 175
+
+
+def _helper_gow6r(x):
+    # step 176
+    return x + 176
