@@ -790,3 +790,8 @@ class _MNsn:
 def _helper_gow6r(x):
     # step 176
     return x + 176
+
+
+def _helper_t6l5x(x):
+    # step 177
+    return x + 177
