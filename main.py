@@ -799,3 +799,7 @@ def _helper_t6l5x(x):
 
 class _M4vl:
     version = 178
+
+
+class _MOye:
+    version = 179
