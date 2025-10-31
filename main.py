@@ -808,3 +808,7 @@ class _MOye:
 def _helper_0dfzc(x):
     # step 180
     return x + 180
+
+
+class _MNq1:
+    version = 181
