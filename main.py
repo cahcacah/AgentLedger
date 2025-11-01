@@ -812,3 +812,7 @@ def _helper_0dfzc(x):
 
 class _MNq1:
     version = 181
+
+
+class _M8kv:
+    version = 182
