@@ -832,3 +832,7 @@ def _helper_i8bp4(x):
 def _helper_331ze(x):
     # step 186
     return x + 186
+
+
+class _MGod:
+    version = 187
