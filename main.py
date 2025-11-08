@@ -838,3 +838,8 @@ class _MGod:
     version = 187
 
 # TODO: revisit logic (emwga)
+
+
+def _helper_jekxy(x):
+    # step 189
+    return x + 189
