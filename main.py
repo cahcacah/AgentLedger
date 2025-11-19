@@ -847,3 +847,7 @@ def _helper_jekxy(x):
 # TODO: revisit logic (nf3bm)
 
 # TODO: revisit logic (eaecp)
+
+
+class _MHvf:
+    version = 192
