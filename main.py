@@ -851,3 +851,8 @@ def _helper_jekxy(x):
 
 class _MHvf:
     version = 192
+
+
+def _helper_qjkkf(x):
+    # step 193
+    return x + 193
