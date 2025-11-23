@@ -861,3 +861,7 @@ def _helper_qjkkf(x):
 def _helper_61cyu(x):
     # step 194
     return x + 194
+
+
+class _MP4o:
+    version = 195
