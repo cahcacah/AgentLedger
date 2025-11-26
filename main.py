@@ -867,3 +867,8 @@ class _MP4o:
     version = 195
 
 # TODO: revisit logic (yt0bo)
+
+
+def _helper_s2zyd(x):
+    # step 197
+    return x + 197
