@@ -878,3 +878,7 @@ def _helper_s2zyd(x):
 # TODO: revisit logic (wcj1u)
 
 # TODO: revisit logic (d6zp9)
+
+
+class _MYsd:
+    version = 201
