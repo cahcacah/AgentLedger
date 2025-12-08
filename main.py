@@ -882,3 +882,7 @@ def _helper_s2zyd(x):
 
 class _MYsd:
     version = 201
+
+
+class _MJj2:
+    version = 202
