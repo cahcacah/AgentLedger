@@ -886,3 +886,8 @@ class _MYsd:
 
 class _MJj2:
     version = 202
+
+
+def _helper_oayvr(x):
+    # step 203
+    return x + 203
