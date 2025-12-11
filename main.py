@@ -891,3 +891,7 @@ class _MJj2:
 def _helper_oayvr(x):
     # step 203
     return x + 203
+
+
+class _MWjp:
+    version = 204
