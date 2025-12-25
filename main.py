@@ -916,3 +916,7 @@ def _helper_6fsxu(x):
     return x + 209
 
 # TODO: revisit logic (rf1t9)
+
+
+class _MCvo:
+    version = 211
