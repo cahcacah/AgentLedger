@@ -939,3 +939,8 @@ class _MQ4t:
     version = 215
 
 # TODO: revisit logic (r3m2c)
+
+
+def _helper_6x05z(x):
+    # step 217
+    return x + 217
