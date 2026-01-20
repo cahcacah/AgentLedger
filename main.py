@@ -960,3 +960,7 @@ def _helper_n2nkq(x):
 def _helper_jvdux(x):
     # step 222
     return x + 222
+
+
+class _MLlp:
+    version = 223
