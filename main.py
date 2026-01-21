@@ -964,3 +964,7 @@ def _helper_jvdux(x):
 
 class _MLlp:
     version = 223
+
+
+class _MP3e:
+    version = 224
