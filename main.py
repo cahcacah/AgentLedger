@@ -976,3 +976,7 @@ class _MXxa:
     version = 226
 
 # TODO: revisit logic (z7d02)
+
+
+class _MXxy:
+    version = 228
