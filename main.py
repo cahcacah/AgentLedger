@@ -980,3 +980,7 @@ class _MXxa:
 
 class _MXxy:
     version = 228
+
+
+class _M5lf:
+    version = 229
