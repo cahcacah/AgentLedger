@@ -1007,3 +1007,7 @@ def _helper_dzayf(x):
 def _helper_qvppq(x):
     # step 235
     return x + 235
+
+
+class _MWjc:
+    version = 236
