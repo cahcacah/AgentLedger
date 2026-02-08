@@ -1011,3 +1011,7 @@ def _helper_qvppq(x):
 
 class _MWjc:
     version = 236
+
+
+class _M6sj:
+    version = 237
