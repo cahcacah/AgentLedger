@@ -1021,3 +1021,7 @@ class _ML3x:
     version = 238
 
 # TODO: revisit logic (qd2nz)
+
+
+class _MAxa:
+    version = 240
