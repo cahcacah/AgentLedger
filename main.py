@@ -1027,3 +1027,7 @@ class _MAxa:
     version = 240
 
 # TODO: revisit logic (8dslj)
+
+
+class _MBes:
+    version = 242
