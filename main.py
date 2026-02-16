@@ -1031,3 +1031,8 @@ class _MAxa:
 
 class _MBes:
     version = 242
+
+
+def _helper_fzplj(x):
+    # step 243
+    return x + 243
