@@ -1040,3 +1040,7 @@ def _helper_fzplj(x):
 # TODO: revisit logic (mveah)
 
 # TODO: revisit logic (yy1wp)
+
+
+class _MLk0:
+    version = 246
