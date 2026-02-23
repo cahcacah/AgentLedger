@@ -1044,3 +1044,8 @@ def _helper_fzplj(x):
 
 class _MLk0:
     version = 246
+
+
+def _helper_p2qpt(x):
+    # step 247
+    return x + 247
