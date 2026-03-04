@@ -1061,3 +1061,7 @@ def _helper_rrqgp(x):
     return x + 249
 
 # TODO: revisit logic (smgct)
+
+
+class _MVot:
+    version = 251
