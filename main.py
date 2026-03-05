@@ -1065,3 +1065,8 @@ def _helper_rrqgp(x):
 
 class _MVot:
     version = 251
+
+
+def _helper_e9joq(x):
+    # step 252
+    return x + 252
