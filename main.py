@@ -1070,3 +1070,7 @@ class _MVot:
 def _helper_e9joq(x):
     # step 252
     return x + 252
+
+
+class _MTov:
+    version = 253
