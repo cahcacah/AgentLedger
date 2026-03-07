@@ -1074,3 +1074,7 @@ def _helper_e9joq(x):
 
 class _MTov:
     version = 253
+
+
+class _MXc8:
+    version = 254
