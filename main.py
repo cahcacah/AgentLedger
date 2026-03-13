@@ -1080,3 +1080,7 @@ class _MXc8:
     version = 254
 
 # TODO: revisit logic (8n9gz)
+
+
+class _MCb1:
+    version = 256
