@@ -1084,3 +1084,8 @@ class _MXc8:
 
 class _MCb1:
     version = 256
+
+
+def _helper_ddciv(x):
+    # step 257
+    return x + 257
