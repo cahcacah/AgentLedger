@@ -1093,3 +1093,8 @@ def _helper_ddciv(x):
 # TODO: revisit logic (pou0z)
 
 # TODO: revisit logic (0ckeo)
+
+
+def _helper_qkwtd(x):
+    # step 260
+    return x + 260
