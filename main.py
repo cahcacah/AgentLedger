@@ -1098,3 +1098,7 @@ def _helper_ddciv(x):
 def _helper_qkwtd(x):
     # step 260
     return x + 260
+
+
+class _MPwb:
+    version = 261
