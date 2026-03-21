@@ -1102,3 +1102,8 @@ def _helper_qkwtd(x):
 
 class _MPwb:
     version = 261
+
+
+def _helper_lbmbg(x):
+    # step 262
+    return x + 262
