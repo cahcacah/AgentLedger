@@ -1107,3 +1107,7 @@ class _MPwb:
 def _helper_lbmbg(x):
     # step 262
     return x + 262
+
+
+class _MZ6w:
+    version = 263
