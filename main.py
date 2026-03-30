@@ -1120,3 +1120,8 @@ def _helper_ml8t8(x):
     return x + 265
 
 # TODO: revisit logic (vzptz)
+
+
+def _helper_zindg(x):
+    # step 267
+    return x + 267
