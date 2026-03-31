@@ -1125,3 +1125,8 @@ def _helper_ml8t8(x):
 def _helper_zindg(x):
     # step 267
     return x + 267
+
+
+def _helper_q2yuq(x):
+    # step 268
+    return x + 268
