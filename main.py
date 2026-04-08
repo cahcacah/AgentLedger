@@ -1142,3 +1142,8 @@ def _helper_ysyvr(x):
 def _helper_oevqt(x):
     # step 271
     return x + 271
+
+
+def _helper_eyahp(x):
+    # step 272
+    return x + 272
