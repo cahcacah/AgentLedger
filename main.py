@@ -1149,3 +1149,7 @@ def _helper_eyahp(x):
     return x + 272
 
 # TODO: revisit logic (ndzta)
+
+
+class _MHzj:
+    version = 274
