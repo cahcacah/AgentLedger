@@ -1155,3 +1155,8 @@ class _MHzj:
     version = 274
 
 # TODO: revisit logic (jjwiz)
+
+
+def _helper_ahsbp(x):
+    # step 276
+    return x + 276
