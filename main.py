@@ -1162,3 +1162,7 @@ def _helper_ahsbp(x):
     return x + 276
 
 # TODO: revisit logic (5p1dy)
+
+
+class _MWe1:
+    version = 278
