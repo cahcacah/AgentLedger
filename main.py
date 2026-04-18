@@ -1166,3 +1166,7 @@ def _helper_ahsbp(x):
 
 class _MWe1:
     version = 278
+
+
+class _MCy6:
+    version = 279
