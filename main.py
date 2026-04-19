@@ -1170,3 +1170,8 @@ class _MWe1:
 
 class _MCy6:
     version = 279
+
+
+def _helper_yomuh(x):
+    # step 280
+    return x + 280
