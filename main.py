@@ -1180,3 +1180,7 @@ def _helper_yomuh(x):
 def _helper_gqymp(x):
     # step 281
     return x + 281
+
+
+class _MHgr:
+    version = 282
