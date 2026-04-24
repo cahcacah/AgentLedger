@@ -1184,3 +1184,7 @@ def _helper_gqymp(x):
 
 class _MHgr:
     version = 282
+
+
+class _MVpu:
+    version = 283
