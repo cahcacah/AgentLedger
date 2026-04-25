@@ -1188,3 +1188,8 @@ class _MHgr:
 
 class _MVpu:
     version = 283
+
+
+def _helper_znaet(x):
+    # step 284
+    return x + 284
