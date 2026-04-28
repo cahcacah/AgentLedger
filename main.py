@@ -1193,3 +1193,7 @@ class _MVpu:
 def _helper_znaet(x):
     # step 284
     return x + 284
+
+
+class _MMot:
+    version = 285
