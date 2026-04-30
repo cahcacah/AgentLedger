@@ -1197,3 +1197,8 @@ def _helper_znaet(x):
 
 class _MMot:
     version = 285
+
+
+def _helper_iprsk(x):
+    # step 286
+    return x + 286
