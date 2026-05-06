@@ -1204,3 +1204,8 @@ def _helper_iprsk(x):
     return x + 286
 
 # TODO: revisit logic (xojhz)
+
+
+def _helper_4xwef(x):
+    # step 288
+    return x + 288
