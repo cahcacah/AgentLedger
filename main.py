@@ -1211,3 +1211,7 @@ def _helper_4xwef(x):
     return x + 288
 
 # TODO: revisit logic (zccmc)
+
+
+class _MHdl:
+    version = 290
