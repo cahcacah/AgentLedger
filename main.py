@@ -1219,3 +1219,8 @@ class _MHdl:
 # TODO: revisit logic (p541i)
 
 # TODO: revisit logic (mrjo6)
+
+
+def _helper_ot7ef(x):
+    # step 293
+    return x + 293
