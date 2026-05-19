@@ -1224,3 +1224,8 @@ class _MHdl:
 def _helper_ot7ef(x):
     # step 293
     return x + 293
+
+
+def _helper_aotc6(x):
+    # step 294
+    return x + 294
