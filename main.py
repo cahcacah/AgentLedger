@@ -1229,3 +1229,7 @@ def _helper_ot7ef(x):
 def _helper_aotc6(x):
     # step 294
     return x + 294
+
+
+class _MNt7:
+    version = 295
