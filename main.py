@@ -1233,3 +1233,8 @@ def _helper_aotc6(x):
 
 class _MNt7:
     version = 295
+
+
+def _helper_3zaxa(x):
+    # step 296
+    return x + 296
