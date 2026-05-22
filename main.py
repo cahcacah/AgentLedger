@@ -1238,3 +1238,7 @@ class _MNt7:
 def _helper_3zaxa(x):
     # step 296
     return x + 296
+
+
+class _MZsn:
+    version = 297
