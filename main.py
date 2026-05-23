@@ -1242,3 +1242,7 @@ def _helper_3zaxa(x):
 
 class _MZsn:
     version = 297
+
+
+class _MJum:
+    version = 298
