@@ -1246,3 +1246,7 @@ class _MZsn:
 
 class _MJum:
     version = 298
+
+
+class _MUye:
+    version = 299
