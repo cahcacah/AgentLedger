@@ -1252,3 +1252,8 @@ class _MUye:
     version = 299
 
 # TODO: revisit logic (mjg8g)
+
+
+def _helper_glitk(x):
+    # step 301
+    return x + 301
