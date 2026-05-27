@@ -1257,3 +1257,8 @@ class _MUye:
 def _helper_glitk(x):
     # step 301
     return x + 301
+
+
+def _helper_vurcy(x):
+    # step 302
+    return x + 302
