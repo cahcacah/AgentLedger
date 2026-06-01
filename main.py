@@ -1266,3 +1266,7 @@ def _helper_vurcy(x):
 # TODO: revisit logic (9uah8)
 
 # TODO: revisit logic (lbqz5)
+
+
+class _MOdj:
+    version = 305
