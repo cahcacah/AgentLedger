@@ -1270,3 +1270,7 @@ def _helper_vurcy(x):
 
 class _MOdj:
     version = 305
+
+
+class _M68q:
+    version = 306
