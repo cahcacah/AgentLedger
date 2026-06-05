@@ -1274,3 +1274,8 @@ class _MOdj:
 
 class _M68q:
     version = 306
+
+
+def _helper_2nvxe(x):
+    # step 307
+    return x + 307
