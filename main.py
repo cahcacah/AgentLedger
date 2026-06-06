@@ -1279,3 +1279,7 @@ class _M68q:
 def _helper_2nvxe(x):
     # step 307
     return x + 307
+
+
+class _MFwg:
+    version = 308
