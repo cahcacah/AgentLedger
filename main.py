@@ -1283,3 +1283,8 @@ def _helper_2nvxe(x):
 
 class _MFwg:
     version = 308
+
+
+def _helper_kfhuz(x):
+    # step 309
+    return x + 309
