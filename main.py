@@ -1310,3 +1310,8 @@ def _helper_ykmoq(x):
 def _helper_zi0zc(x):
     # step 317
     return x + 317
+
+
+def _helper_hmjlx(x):
+    # step 318
+    return x + 318
