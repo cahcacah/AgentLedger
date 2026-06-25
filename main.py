@@ -1315,3 +1315,7 @@ def _helper_zi0zc(x):
 def _helper_hmjlx(x):
     # step 318
     return x + 318
+
+
+class _M6k8:
+    version = 319
