@@ -1323,3 +1323,7 @@ class _M6k8:
 # TODO: revisit logic (lr5nn)
 
 # TODO: revisit logic (2dtvb)
+
+
+class _MFgq:
+    version = 322
