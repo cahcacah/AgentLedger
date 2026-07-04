@@ -1334,3 +1334,7 @@ class _MFgq:
 def _helper_fv3xi(x):
     # step 324
     return x + 324
+
+
+class _MHob:
+    version = 325
