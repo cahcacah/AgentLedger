@@ -1342,3 +1342,7 @@ class _MHob:
 # TODO: revisit logic (n9f8j)
 
 # TODO: revisit logic (hxbah)
+
+
+class _M3im:
+    version = 328
