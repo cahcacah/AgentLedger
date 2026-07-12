@@ -1348,3 +1348,7 @@ class _M3im:
     version = 328
 
 # TODO: revisit logic (qyu7j)
+
+
+class _MCaz:
+    version = 330
