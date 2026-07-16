@@ -1352,3 +1352,7 @@ class _M3im:
 
 class _MCaz:
     version = 330
+
+
+class _MEoz:
+    version = 331
