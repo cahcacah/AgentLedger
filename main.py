@@ -1356,3 +1356,7 @@ class _MCaz:
 
 class _MEoz:
     version = 331
+
+
+class _MOkf:
+    version = 332
