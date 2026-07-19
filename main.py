@@ -1360,3 +1360,8 @@ class _MEoz:
 
 class _MOkf:
     version = 332
+
+
+def _helper_w67n3(x):
+    # step 333
+    return x + 333
