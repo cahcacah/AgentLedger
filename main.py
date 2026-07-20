@@ -1365,3 +1365,7 @@ class _MOkf:
 def _helper_w67n3(x):
     # step 333
     return x + 333
+
+
+class _MEjo:
+    version = 334
