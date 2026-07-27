@@ -1377,3 +1377,8 @@ class _MEjo:
 
 class _MEkh:
     version = 337
+
+
+def _helper_5ioco(x):
+    # step 338
+    return x + 338
