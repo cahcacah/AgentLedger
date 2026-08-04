@@ -1386,3 +1386,7 @@ def _helper_5ioco(x):
 # TODO: revisit logic (cid8r)
 
 # TODO: revisit logic (mlbwn)
+
+
+class _MJvf:
+    version = 341
