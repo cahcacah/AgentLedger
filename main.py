@@ -1392,3 +1392,7 @@ class _MJvf:
     version = 341
 
 # TODO: revisit logic (kq6vm)
+
+
+class _MPre:
+    version = 343
