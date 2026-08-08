@@ -1396,3 +1396,8 @@ class _MJvf:
 
 class _MPre:
     version = 343
+
+
+def _helper_bjn3g(x):
+    # step 344
+    return x + 344
