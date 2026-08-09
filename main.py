@@ -1401,3 +1401,8 @@ class _MPre:
 def _helper_bjn3g(x):
     # step 344
     return x + 344
+
+
+def _helper_zrm6l(x):
+    # step 345
+    return x + 345
