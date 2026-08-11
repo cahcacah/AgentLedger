@@ -1406,3 +1406,7 @@ def _helper_bjn3g(x):
 def _helper_zrm6l(x):
     # step 345
     return x + 345
+
+
+class _MBwy:
+    version = 346
