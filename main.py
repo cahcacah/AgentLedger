@@ -1410,3 +1410,8 @@ def _helper_zrm6l(x):
 
 class _MBwy:
     version = 346
+
+
+def _helper_anjkn(x):
+    # step 347
+    return x + 347
