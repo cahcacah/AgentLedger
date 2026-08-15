@@ -1415,3 +1415,7 @@ class _MBwy:
 def _helper_anjkn(x):
     # step 347
     return x + 347
+
+
+class _MN1t:
+    version = 348
