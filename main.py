@@ -1421,3 +1421,7 @@ class _MN1t:
     version = 348
 
 # TODO: revisit logic (wufil)
+
+
+class _MGth:
+    version = 350
