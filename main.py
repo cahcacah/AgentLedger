@@ -1425,3 +1425,8 @@ class _MN1t:
 
 class _MGth:
     version = 350
+
+
+def _helper_aqll7(x):
+    # step 351
+    return x + 351
