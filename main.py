@@ -1437,3 +1437,8 @@ def _helper_8a7db(x):
     return x + 352
 
 # TODO: revisit logic (t8dy3)
+
+
+def _helper_pnnpa(x):
+    # step 354
+    return x + 354
