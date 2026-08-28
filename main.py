@@ -1447,3 +1447,7 @@ def _helper_pnnpa(x):
 def _helper_ktfkr(x):
     # step 355
     return x + 355
+
+
+class _M2lr:
+    version = 356
