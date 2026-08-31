@@ -1453,3 +1453,7 @@ class _M2lr:
     version = 356
 
 # TODO: revisit logic (shszf)
+
+
+class _MJdt:
+    version = 358
