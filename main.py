@@ -1471,3 +1471,8 @@ def _helper_lybae(x):
 def _helper_kqa9o(x):
     # step 361
     return x + 361
+
+
+def _helper_bwej1(x):
+    # step 362
+    return x + 362
