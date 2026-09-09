@@ -1480,3 +1480,8 @@ def _helper_bwej1(x):
 # TODO: revisit logic (lepex)
 
 # TODO: revisit logic (wxrr8)
+
+
+def _helper_3whrp(x):
+    # step 365
+    return x + 365
