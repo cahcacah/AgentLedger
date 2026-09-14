@@ -1491,3 +1491,7 @@ def _helper_3whrp(x):
 # TODO: revisit logic (fp5xs)
 
 # TODO: revisit logic (ys296)
+
+
+class _MNxf:
+    version = 369
