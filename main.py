@@ -1497,3 +1497,8 @@ class _MNxf:
     version = 369
 
 # TODO: revisit logic (55pul)
+
+
+def _helper_hesph(x):
+    # step 371
+    return x + 371
