@@ -1502,3 +1502,8 @@ class _MNxf:
 def _helper_hesph(x):
     # step 371
     return x + 371
+
+
+def _helper_je7ke(x):
+    # step 372
+    return x + 372
