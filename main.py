@@ -1507,3 +1507,7 @@ def _helper_hesph(x):
 def _helper_je7ke(x):
     # step 372
     return x + 372
+
+
+class _MTjh:
+    version = 373
