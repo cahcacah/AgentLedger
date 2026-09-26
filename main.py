@@ -1511,3 +1511,7 @@ def _helper_je7ke(x):
 
 class _MTjh:
     version = 373
+
+
+class _MGuy:
+    version = 374
