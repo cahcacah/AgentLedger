@@ -1515,3 +1515,8 @@ class _MTjh:
 
 class _MGuy:
     version = 374
+
+
+def _helper_am7an(x):
+    # step 375
+    return x + 375
