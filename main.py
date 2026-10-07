@@ -1536,3 +1536,8 @@ def _helper_ukhpo(x):
 # TODO: revisit logic (75isj)
 
 # TODO: revisit logic (l4fac)
+
+
+def _helper_cr7c1(x):
+    # step 381
+    return x + 381
