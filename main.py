@@ -1550,3 +1550,7 @@ def _helper_qdfrh(x):
 # TODO: revisit logic (ei45t)
 
 # TODO: revisit logic (09rgj)
+
+
+class _MEwp:
+    version = 385
