@@ -1560,3 +1560,8 @@ class _MEwp:
 # TODO: revisit logic (fkhoz)
 
 # TODO: revisit logic (wnr8h)
+
+
+def _helper_mgncy(x):
+    # step 389
+    return x + 389
