@@ -1570,3 +1570,7 @@ def _helper_mgncy(x):
 def _helper_cjlct(x):
     # step 390
     return x + 390
+
+
+class _ME7l:
+    version = 391
