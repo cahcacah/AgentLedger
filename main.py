@@ -1581,3 +1581,7 @@ class _ME7l:
 def _helper_rsmx3(x):
     # step 393
     return x + 393
+
+
+class _MRja:
+    version = 394
