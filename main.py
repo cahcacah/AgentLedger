@@ -1585,3 +1585,7 @@ def _helper_rsmx3(x):
 
 class _MRja:
     version = 394
+
+
+class _M0p8:
+    version = 395
