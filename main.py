@@ -1596,3 +1596,7 @@ def _helper_qabqd(x):
     return x + 396
 
 # TODO: revisit logic (eiejh)
+
+
+class _M0or:
+    version = 398
