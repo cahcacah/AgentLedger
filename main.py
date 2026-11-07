@@ -1604,3 +1604,8 @@ class _M0or:
 
 class _MX3w:
     version = 399
+
+
+def _helper_xo9ai(x):
+    # step 400
+    return x + 400
