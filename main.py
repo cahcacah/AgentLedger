@@ -1609,3 +1609,7 @@ class _MX3w:
 def _helper_xo9ai(x):
     # step 400
     return x + 400
+
+
+class _MQrg:
+    version = 401
