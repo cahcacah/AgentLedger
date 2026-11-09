@@ -1613,3 +1613,7 @@ def _helper_xo9ai(x):
 
 class _MQrg:
     version = 401
+
+
+class _MAvq:
+    version = 402
