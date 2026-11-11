@@ -1619,3 +1619,7 @@ class _MAvq:
     version = 402
 
 # TODO: revisit logic (58ta7)
+
+
+class _MGe5:
+    version = 404
