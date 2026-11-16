@@ -1625,3 +1625,7 @@ class _MGe5:
     version = 404
 
 # TODO: revisit logic (oab9e)
+
+
+class _M2qv:
+    version = 406
