@@ -1629,3 +1629,8 @@ class _MGe5:
 
 class _M2qv:
     version = 406
+
+
+def _helper_2fpad(x):
+    # step 407
+    return x + 407
