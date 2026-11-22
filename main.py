@@ -1641,3 +1641,7 @@ def _helper_fqs6l(x):
     return x + 408
 
 # TODO: revisit logic (q1kqv)
+
+
+class _MLa3:
+    version = 410
