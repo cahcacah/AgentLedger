@@ -1654,3 +1654,7 @@ class _MLa3:
 def _helper_trx0w(x):
     # step 413
     return x + 413
+
+
+class _M2tg:
+    version = 414
